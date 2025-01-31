@@ -27,11 +27,6 @@ This hands-on project strengthened my ability to:
 ✔ Transform raw data into actionable insights.
 ✔ Effectively communicate findings through visual storytelling.
 
-## Project Resources
-📄 Business Queries Document – Outlines the 10 ad-hoc requests.
-📂 SQL Scripts Folder – Contains all query scripts used for data extraction.
-📢 Presentation Deck – Summarizes findings and recommendations for leadership.
-
 This project demonstrates my proficiency in data analysis, visualization, and strategic communication, essential for data-driven decision-making in a corporate environment. 🚀
 
 
