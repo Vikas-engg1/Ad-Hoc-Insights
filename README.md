@@ -1,5 +1,5 @@
 # Ad-Hoc Business Insights
-##Company Overview
+## Company Overview
 AtliQ Hardwares, a globally recognized computer hardware manufacturer based in India, is committed to leveraging data-driven strategies to enhance business decision-making. To strengthen its analytics capabilities, the company sought skilled data analysts who could efficiently extract insights and communicate them effectively.
 
 ## Business Challenge
